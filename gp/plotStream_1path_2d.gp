@@ -2,8 +2,8 @@ set terminal postscript eps enhanced color
 
 set xtics 25
 set mxtics 10
-set grid xtics
-set grid ytics
+# set grid xtics
+# set grid ytics
 set xtics font ",28" offset 0,-1
 set ytics font ",28" offset -2,0
 set xlabel "Time" font ",28" offset 0,-3
